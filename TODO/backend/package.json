@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the backend of todo list",
+  "keywords": [
+    "meow"
+  ],
+  "homepage": "https://github.com/AryanYadav1024/PracticeLearning#readme",
+  "bugs": {
+    "url": "https://github.com/AryanYadav1024/PracticeLearning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanYadav1024/PracticeLearning.git"
+  },
+  "license": "ISC",
+  "author": "Aryan Yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
