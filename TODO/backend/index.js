@@ -1,8 +1,10 @@
 import express from 'express'
 import dotenv from 'dotenv'
-import connectDB from './db'
+import connectDB from "./db/index.js"
 
-import { taskRouter } from './routes/taskRoutes'
+
+
+import { taskRouter } from './routes/taskRoutes.js'
 
 dotenv.config()
 
